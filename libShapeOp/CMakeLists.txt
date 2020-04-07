@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.1)
 project(ShapeOp)
 
-set(CMAKE_CONFIGURATION_TYPES Release Debug CACHE TYPE INTERNAL FORCE)
+#set(CMAKE_CONFIGURATION_TYPES Release Debug CACHE TYPE INTERNAL FORCE)
   
 # Tell CMake he'll be able to include ".cmake" configurations 
 # files in the folder where the current file is located
